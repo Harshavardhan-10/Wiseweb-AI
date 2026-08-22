@@ -1,0 +1,57 @@
+/* Acme Widgets styles - intentionally verbose and unminified. */
+body { font-family: sans-serif; margin: 0; padding: 0; color: #222; }
+header { background: #1a1a2e; padding: 1rem; }
+nav a { color: #fff; margin: 0 0.5rem; text-decoration: none; }
+main { padding: 2rem; max-width: 960px; margin: 0 auto; }
+img { max-width: 100%; height: auto; }
+/* Lots of unused legacy rules below to keep the stylesheet heavy. */
+.legacy-1 { color: #010101; }
+.legacy-2 { color: #020202; }
+.legacy-3 { color: #030303; }
+.legacy-4 { color: #040404; }
+.legacy-5 { color: #050505; }
+.legacy-6 { color: #060606; }
+.legacy-7 { color: #070707; }
+.legacy-8 { color: #080808; }
+.legacy-9 { color: #090909; }
+.legacy-10 { color: #0a0a0a; }
+.legacy-11 { color: #0b0b0b; }
+.legacy-12 { color: #0c0c0c; }
+.legacy-13 { color: #0d0d0d; }
+.legacy-14 { color: #0e0e0e; }
+.legacy-15 { color: #0f0f0f; }
+.legacy-16 { color: #101010; }
+.legacy-17 { color: #111111; }
+.legacy-18 { color: #121212; }
+.legacy-19 { color: #131313; }
+.legacy-20 { color: #141414; }
+.legacy-21 { color: #151515; }
+.legacy-22 { color: #161616; }
+.legacy-23 { color: #171717; }
+.legacy-24 { color: #181818; }
+.legacy-25 { color: #191919; }
+.legacy-26 { color: #1a1a1a; }
+.legacy-27 { color: #1b1b1b; }
+.legacy-28 { color: #1c1c1c; }
+.legacy-29 { color: #1d1d1d; }
+.legacy-30 { color: #1e1e1e; }
+.legacy-31 { color: #1f1f1f; }
+.legacy-32 { color: #202020; }
+.legacy-33 { color: #212121; }
+.legacy-34 { color: #222222; }
+.legacy-35 { color: #232323; }
+.legacy-36 { color: #242424; }
+.legacy-37 { color: #252525; }
+.legacy-38 { color: #262626; }
+.legacy-39 { color: #272727; }
+.legacy-40 { color: #282828; }
+.legacy-41 { color: #292929; }
+.legacy-42 { color: #2a2a2a; }
+.legacy-43 { color: #2b2b2b; }
+.legacy-44 { color: #2c2c2c; }
+.legacy-45 { color: #2d2d2d; }
+.legacy-46 { color: #2e2e2e; }
+.legacy-47 { color: #2f2f2f; }
+.legacy-48 { color: #303030; }
+.legacy-49 { color: #313131; }
+.legacy-50 { color: #323232; }
