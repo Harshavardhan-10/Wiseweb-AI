@@ -85,7 +85,7 @@ export function NewWebsitePage() {
                 placeholder="https://example.com"
               />
               <p className="mt-1 text-xs text-slate-500">
-                We'll normalize it automatically (https://example.com â†’ https://example.com/).
+                We'll normalize it automatically (https://example.com , https://example.com/).
               </p>
             </div>
             <div>

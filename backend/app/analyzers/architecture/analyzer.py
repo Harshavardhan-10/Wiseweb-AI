@@ -142,7 +142,7 @@ class ArchitectureAnalyzer(BaseAnalyzer):
 
         for tech in context.technologies:
             tkey = ("TECHNOLOGY", tech.name)
-            add_node(tkey, "TECHNOLOGY", tech.name, f"{tech.category} Â· {tech.confidence:.0%}",
+            add_node(tkey, "TECHNOLOGY", tech.name, f"{tech.category} · {tech.confidence:.0%}",
                      {"category": tech.category, "confidence": tech.confidence})
 
         resource_domain_counts = Counter(r.domain for r in context.resources if r.domain)
